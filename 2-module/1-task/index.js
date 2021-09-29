@@ -19,3 +19,6 @@ function sumSalary(salaries) {
 }
 
 sumSalary(salaries);
+
+
+
