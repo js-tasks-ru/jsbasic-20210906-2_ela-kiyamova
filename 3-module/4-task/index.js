@@ -1,4 +1,3 @@
-
 function showSalary(users, age) {
   let string = ""; // создаем пустую строку
   users.forEach((item)=>{ // перебор по массиву
@@ -7,4 +6,4 @@ function showSalary(users, age) {
     }
   });
   return string.slice(0, -1); // возвращаем все строками сверху вниз, от первого до полследнего
-
+}

@@ -1,5 +1,3 @@
-
-
 let vasya = { name: 'Вася', age: 25 };
 let petya = { name: 'Петя', age: 30 };
 let masha = { name: 'Маша', age: 28 };
@@ -16,6 +14,3 @@ function namify(users) { // Напишите функцию namify, котора
 let names = namify(users); // ['Вася', 'Петя', 'Маша']
 
 alert(namify(users));
-
-
-
